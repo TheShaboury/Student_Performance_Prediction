@@ -35,7 +35,11 @@ The dataset contains records from 1,000 students including:
 ## Key Results
 
 Model	               R²Score	  RMSE
+
 Linear Regression	   0.90	      5.14
+
 Ridge Regression	   0.90	      5.14
+
 Lasso Regression	   0.87	      6.02
+
 Random Forest	       0.89	      5.43
